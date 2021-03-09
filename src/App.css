@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.active {
+  background-color: red;
+  color: white;
+}
+
+/*BEGIN DETAIL */
+
+.movie-img {
+  height: 300px !important;
+}
+
+.movie-card {
+  height: 460px;
+}
+
+.detail-movie-td {
+  width: 100px !important;
+}
+
+/* END DETAIL MOVIE */
